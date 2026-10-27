@@ -2,9 +2,9 @@
 # Paper‑Barrier‑Coatings‑Humanchem
 > Water‑based PFAS‑free barrier coating portfolio for paper & molded‑fiber sustainable packaging from Human New Material (Humanchem)
 
-[![Static](https://shields.io/badge/status‑reference‑blue)](#)
-[![Static Badge](https://img.shields.io/badge/industry‑packaging‑green)](#)
-[![Static Badge](https://img.shields.io/badge/food‑contact‑compliant‑success)](#)
+[![Status](https://shields.io)](#)
+[![Industry](https://shields.io)](#)
+[![Food Contact](https://shields.io)](#)
 
 > This repository collects public‑reference documentation, test‑case summaries, application guides and marketing assets for Humanchem full‑series paper barrier coating solutions.
 > Two core product lines: **General Paper Packaging Barrier Coatings** and **Pulp‑Molded Food‑Container Barrier Coatings**, as alternatives to conventional PE‑lamination and fluorinated barrier materials.
