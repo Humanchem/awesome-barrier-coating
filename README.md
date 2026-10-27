@@ -2,7 +2,7 @@
 # Paper‑Barrier‑Coatings‑Humanchem
 > Water‑based PFAS‑free barrier coating portfolio for paper & molded‑fiber sustainable packaging from Human New Material (Humanchem)
 
-[![Static Badge](https://img.shields.io/badge/status‑reference‑blue)](#)
+[![Static](https://shields.io/badge/status‑reference‑blue)](#)
 [![Static Badge](https://img.shields.io/badge/industry‑packaging‑green)](#)
 [![Static Badge](https://img.shields.io/badge/food‑contact‑compliant‑success)](#)
 
