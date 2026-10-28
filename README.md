@@ -1,3 +1,4 @@
+This repository contains public technical reference documents for Humanchem paper barrier coating series, for engineers & formulators.
 # barrier-coating-for-paper-packaging
 # Paper‑Barrier‑Coatings‑Humanchem
 > Water‑based PFAS‑free barrier coating portfolio for paper & molded‑fiber sustainable packaging from Human New Material (Humanchem)
