@@ -111,7 +111,6 @@ Typical end‑uses:
 ---
 
 ## Repository Structure
-## Repository Structure
 
 This repository is organized logically by product line, technical specifications, and process guides to help you quickly find the reference materials you need.
 
@@ -150,14 +149,14 @@ paper-barrier-coatings-humanchem/
 - **Eco-friendly Heat-sealing Adhesives**: Tailored solutions for high-speed carton converting and sealing.
 
 ## Official Web Source
-- 🌐 Visit our official website: [Human New Material (Humanchem)](https://humanchem.com) *(Replace with actual URL)*
+- 🌐 Visit our official website: [Human New Material (Humanchem)](https://humanchem.com)
+- 🌐 Visit our Product information: [Barrier Coating for Paper Packaging (Humanchem)](https://global.humanchem.com/products/barrier-coatings-for-paper-packaging.html)
 - 📱 Follow our official WeChat Enterprise Account for the latest industry updates.
 
 ## Technical & Commercial Support
 For customized formulation requests, on-site debugging appointments, or commercial inquiries, please reach out to our team:
-- 📧 **Technical Support**: tech.support@humanchem.com
-- 💼 **Commercial Inquiries**: sales@humanchem.com
-- 📞 **Hotline**: +86-xxx-xxxx-xxxx
+- 💼 **Commercial Inquiries**: polly@humanchem.com
+- 📞 **Hotline**: +86-134-2217-5621
 
 ## Disclaimer
 > ⚠️ **Notice**: All technical data, test results, and recommendations provided in this repository are based on Humanchem’s controlled laboratory testing environments. Real-world performance may vary significantly depending on customer substrate properties, actual coating weight, drying efficiency, and processing machinery. Customers are strongly required to conduct independent trial-runs and property verifications before commercial scale production.
